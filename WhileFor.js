@@ -95,5 +95,11 @@ for (let i = 3; i <= count; i++){
     console.log(c)
 }
 
+const myString = "WebDevelopment is FUN! WebDevelopment"
+//myString.replace("WebDevelopment", "programming");
+console.log(myString.replace("WebDevelopment", "programming"));
+console.log(myString.replace("webdevelopment", "programming"));
 
-
+console.log("Boolean value of 0: ", Boolean(0));
+console.log("Ceiling value of 31.2:", Math.ceil(31.2));
+console.log(`${45/0}`)

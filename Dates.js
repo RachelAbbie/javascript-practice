@@ -1,7 +1,8 @@
 "use Strict"
 
 const time = new Date();
-console.log("Current time: \n", time);
+console.log(`Current time: \n" ${time}`);
+
 console.log("\n");
 
 //don't use leading zeros 

@@ -5,7 +5,7 @@ console.log("Logical Operators")
 let A = 13, B = 25
 
 if (A >= 12 && B <= 25)
-    console.log("A + B = ", A + B)
+    console.log(`A + B = ${A+B}`)
 
 let X = 15, Y = 20;
 
