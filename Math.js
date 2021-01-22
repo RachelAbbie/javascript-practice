@@ -27,4 +27,4 @@ console.log("Lowest number from the list: ", Math.min(10, 100, -200, 50));
 console.log("sin(30) = ", Math.sin(30 * Math.PI / 180));
 console.log("cos(30) = ", Math.cos(30 * Math.PI / 180));
 
-console.log("The natural log of 3: ", Math.log(3))
+console.log("The natural log of 3: ", Math.log(3));

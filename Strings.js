@@ -48,5 +48,3 @@ const empName = "Jane Chang";
 console.log("Length: ", empName.length)
 console.log("Index: ", empName.indexOf("h"))
 
-//DATES TYPES
-

@@ -9,3 +9,5 @@ console.log("Random integer betwwen 0 and 10: ", Math.floor(Math.random() * 11))
 console.log("Random integer betwwen 1 and 10: ", Math.floor(Math.random() * 11) + 1)
 
 
+
+
